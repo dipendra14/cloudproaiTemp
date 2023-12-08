@@ -1,0 +1,112 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Cloud Engineering",
+      "subServices": [
+        {
+          "id": 101,
+          "title": "Cloud Architecture Consulting",
+          "description": "Cloud Architecture ConsultingCloud Architecture ConsultingCloud Architecture ConsultingCloud Architecture ConsultingCloud Architecture ConsultingCloud Architecture ConsultingCloud Architecture Consulting "
+        },
+        {
+          "id": 102,
+          "title": "Cost Optimization for Cloud Infrastructures"
+        },
+        {
+          "id": 103,
+          "title": "Cloud Security and IAM Implementation"
+        },
+        {
+          "id": 104,
+          "title": "Data Services Best Practices on Cloud"
+        },
+        {
+          "id": 105,
+          "title": "Cloud Services Operations and Maintenance"
+        },
+        {
+          "id": 106,
+          "title": "Serverless Architecture"
+        },
+        {
+          "id": 107,
+          "title": "On-Prem to Cloud Migration"
+        },
+        {
+          "id": 108,
+          "title": "Information Governance"
+        }
+        
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Data Engineering",
+      "subServices": [
+        {
+          "id": 201,
+          "title": "Data Analytics & Engineering"
+        },
+        {
+          "id": 202,
+          "title": "Data Lakes and Warehouses"
+        },
+        {
+          "id": 203,
+          "title": "Data Architecture"
+        },
+        {
+          "id": 204,
+          "title": "Data Security and Governance"
+        },
+        {
+          "id": 205,
+          "title": "Data Services Best Practices"
+        },
+        {
+          "id": 206,
+          "title": "API Data Extraction"
+        },
+        {
+          "id": 207,
+          "title": "End to End Data Pipeline Solutions"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Generative AI and ML",
+      "subServices": [
+        {
+          "id": 301,
+          "title": "AI Implementation"
+        },
+        {
+          "id": 302,
+          "title": "Machine Learning"
+        },
+        {
+          "id": 303,
+          "title": "Deep Learning"
+        },
+        {
+          "id": 304,
+          "title": "Generative AI Apps"
+        },
+        {
+          "id": 305,
+          "title": "AI Chatbots"
+        },
+        {
+          "id": 306,
+          "title": "LLMS"
+        },
+        {
+          "id": 307,
+          "title": "NLP Implementations"
+        }
+      ]
+    }
+  ]
+}
