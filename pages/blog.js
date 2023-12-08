@@ -3,6 +3,7 @@ import Layout from "@/layout";
 import Link from "next/link";
 
 const Blog = () => {
+  //RANDOM COMMENT
   return (
     <Layout>
       <PageBanner pageName={"Blog Standard"} />
