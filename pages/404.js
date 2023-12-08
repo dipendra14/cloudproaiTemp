@@ -2,6 +2,9 @@ import Link from "next/link";
 import { Fragment } from "react";
 
 const E404 = () => {
+
+  //THIS IS JUST A RANDOM COMMENT
+  
   return (
     <Fragment>
       <section className="error-page-area py-80">
@@ -17,6 +20,7 @@ const E404 = () => {
                   />
                 </a>
               </Link> */}
+            
 
               <div className="row justify-content-center wow fadeInUp delay-0-2s">
               
