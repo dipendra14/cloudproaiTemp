@@ -1,5 +1,11 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js"
+  "/_document": "pages/_document.js",
+  "/services": "pages/services.js",
+  "/": "pages/index.js",
+  "/api/services/cloudengineering/services": "pages/api/services/cloudengineering/services.js",
+  "/api/services/dataengineering/services": "pages/api/services/dataengineering/services.js",
+  "/api/services/generativeaiandml/services": "pages/api/services/generativeaiandml/services.js",
+  "/contact": "pages/contact.js"
 }
